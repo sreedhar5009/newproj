@@ -1,6 +1,10 @@
 this si a new file added to test oull request
+<<<<<<< HEAD
 update few lines only in local repo
 just adding some extra lines her
 to check how it behaves
 thanks
 
+=======
+updating only on the remote file-changes
+>>>>>>> 4a74db2fef13545b143e8dec3d870ec80a4219e9

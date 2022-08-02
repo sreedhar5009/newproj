@@ -9,6 +9,10 @@ thanks
 updating only on the remote file-changes
 >>>>>>> 4a74db2fef13545b143e8dec3d870ec80a4219e9
 
+<<<<<<< HEAD
 
 adding new to check
 rebase is true case now
+=======
+last line to see local copy before rebase is true
+>>>>>>> fa91518 (just commit local line)
